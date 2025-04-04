@@ -130,7 +130,7 @@ nav.sticky .menu-btn {
 .home {
   height: 100vh;
   width: 100%;
-  background: url("https://github.com/realamang/Personal-Portfolio/blob/efb1493240cbbd6c6691cf4525424603117f05cc/Images/background.jpg") no-repeat;
+  background: url("images/background.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
